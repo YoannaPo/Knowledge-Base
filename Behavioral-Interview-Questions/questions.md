@@ -17,7 +17,7 @@ Most of the behavioral questions should be answered in the CAR format.
 ## Questions:
 
 ### Achievements
-- [ ] Give me an example of a project or initiative that you started on your own. What prompted you to get started? Describe a project that you worked on, that led to your professional development.
+- [ ] Give me an example of a project or initiative that you started on your own. What prompted you to get started?
   - **Cause:**
   - **Action:**
   - **Result:**
@@ -38,6 +38,20 @@ Most of the behavioral questions should be answered in the CAR format.
   - **Result:**
 
 ### Adaptability
+- [ ] Tell me about a time when you were asked to do something you had never done before. How did you react? What did you learn?
+  - **Cause:**
+  - **Action:**
+  - **Result:**
+
+- [ ] Recall a time when you were assigned a task outside of your job description. How did you handle the situation? What was the outcome?
+  - **Cause:**
+  - **Action:**
+  - **Result:**
+
+- [ ] Tell me about the biggest change that you have had to deal with. How did you adapt to that change?
+  - **Cause:**
+  - **Action:**
+  - **Result:**
 
 ### Collaboration/ Teamwork
 ### Communication
