@@ -19,8 +19,12 @@ Most of the behavioral questions should be answered in the CAR format.
 ### Achievements
 - [ ] Give me an example of a project or initiative that you started on your own. What prompted you to get started?
   - **Cause:**
+  During the Next Generation Tech Booster - Frontend Track - scholarship powered by Bertelsmann and Udacity, I needed a system to check my knowledge effectively and, at the same time, prepare for the assessment  (its results determined who would be admitted to the second phase of the scholarship).
   - **Action:**
+  I started to collect the important topics, including questions that appeared most often on the Slack channels relevant to this scholarship. I created a repository on GitHub. I put questions there with answers and sources I refer to. I've developed a repetition system that works great for me.
   - **Result:**
+  I have shared this repository with all fellowship participants. I received much support, thanks and additional questions, which I also included in the database. As a result of my work, I improved my markdown writing, passed the assessment and found myself in the second phase of the scholarship.
+  
 
 - [ ] Describe a project that you worked on, that led to your professional development.
   - **Cause:**
