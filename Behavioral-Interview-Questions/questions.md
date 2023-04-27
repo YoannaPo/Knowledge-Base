@@ -28,8 +28,11 @@ Most of the behavioral questions should be answered in the CAR format.
 
 - [ ] Describe a project that you worked on, that led to your professional development.
   - **Cause:**
+  A friend from college organized a charity rollerblade ride from Warsaw to Berlin. Its goal was to raise funds to treat siblings of children with SMA (a genetic condition that makes the muscles weaker and causes problems with breathing). She turned to me for help. She remembered that I was good at the HTML assignment and enjoyed it.
   - **Action:**
+  I decided to help her. She had a very simple website with a chaotic structure of information needed to meet this event's goals. I created the information architecture for the website, missing subpages, support for automatic backups - independent of hosting, created e-mail accounts, added Google Analytics tools and the https protocol to the website, wrote posts on current events, information on the course of fundraising (I took care of SEO, i.e. to contain keywords for this site or internal linking etc.). I spent time learning WordPress, security issues and updating the site all the time.
   - **Result:**
+  I acquired knowledge and skills in a new field for me. A friend started a charity initiative (now roll4you.org), and I administered the website. The ride was successful, and the amount has been collected. I really liked all these tasks, and this experience contributed to changing my career path to front-end development.
 
 - [ ] Tell me about a time when you set a goal and met your objectives.
   - **Cause:**
