@@ -35,9 +35,10 @@ Most of the behavioral questions should be answered in the CAR format.
   I acquired knowledge and skills in a new field for me. A friend started a charity initiative (now roll4you.org), and I administered the website. The ride was successful, and the amount has been collected. I really liked all these tasks, and this experience contributed to changing my career path to front-end development.
 
 - [ ] Tell me about a time when you set a goal and met your objectives.
-  - **Cause:**
-  - **Action:**
-  - **Result:**
+  - **Cause:** As a scholarship participant, I received a month's access to a learning platform, where, among other things, there was a Tailwind CSS3 course, which I had only heard about.
+  - **Action:** I wanted to see how fast I could learn. My goal was to create a responsive layout based on Tailwind CSS3. I finished the course.
+  - **Result:** I learned how to configure Tailwind, Vite, JSON files and learned the Tailwind file structure. I realized that it's quick to implement this CSS framework. I've created a responsive layout; you can view it in one of my repos on GitHub.
+
 
 - [ ] Tell me about a time you exceeded expectations.
   - **Cause:**
