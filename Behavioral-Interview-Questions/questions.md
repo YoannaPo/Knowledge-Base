@@ -47,9 +47,12 @@ Most of the behavioral questions should be answered in the CAR format.
 
 ### Adaptability
 - [ ] Tell me about a time when you were asked to do something you had never done before. How did you react? What did you learn?
-  - **Cause:**
-  - **Action:**
-  - **Result:**
+  - **Cause:** It was the beginning of our work. One of my clients asked me to redirect all her pages to one completely different web address. She was using a content management system which I was beginning to learn.
+  - **Action:** I told my client that I'm learning about her CMS. I will check about this possibility in the CMS documentation and come back with an answer. I also passed on that based on my experience with another CMS- WordPress, with I'm familiar with - this procedure can be set, and change will be visible faster than in 24 hours. 
+  - **Result:** I checked and came back with an answer. The pages were redirected, and the client asked me for additional work on the site and recommended me further.
+
+
+
 
 - [ ] Recall a time when you were assigned a task outside of your job description. How did you handle the situation? What was the outcome?
   - **Cause:**
